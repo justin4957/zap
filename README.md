@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJldHY4aG80NGJvdWlhMG9waTlqOHV3OTk5bTNrZzhicnZqZGVkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P6TIKjJm4zUMd8gsPq/giphy.gif)
+
 # Zap
 
 To start your Phoenix server:
